@@ -1,0 +1,12 @@
+{
+  "name": "QualitAir",
+  "displayName": "QualitAir",
+  "expo": {
+    "name": "QualitAir",
+    "slug": "QualitAir",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
